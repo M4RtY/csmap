@@ -1,0 +1,13 @@
+.kraj {
+	fill: #CCCCCC;
+	stroke: #999999;
+	stroke-width: 0.5px;
+}
+
+.kraj:hover,
+.kraj.selected {
+	fill: #EEEEEE;
+	stroke: #666666;
+	cursor: pointer;
+	stroke-width: 1px;
+}
